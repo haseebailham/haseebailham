@@ -1,4 +1,6 @@
-- 👋 Hi, there!
+- Hi, there! ![image](https://github.com/haseebailham/haseebailham/assets/53087386/1ec7955e-bc22-4541-859d-6fa390301965)
+
+
 - I'm Ilham, a software engineer from Cambridge, MA!
 - I'm primarily interested in full-stack development and currently work as a Software Engineer at JP Morgan Chase & Co.
 - I'm interested in large-scale, high-impact products.
