@@ -1,6 +1,6 @@
 Hi, there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm Ilham, a software engineer from Cambridge, MA!
+I'm Haseeba, a software engineer from Cambridge, MA!
 
 I'm primarily interested in full-stack development and currently work as a Software Engineer at JP Morgan Chase & Co. I'm interested in large-scale, high-impact products.
 
